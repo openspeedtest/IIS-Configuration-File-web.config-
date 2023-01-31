@@ -1,4 +1,4 @@
-#  **[IIS Configuration File (web.config)](https://openspeedtest.com/selfhosted-speedtest?ref=Github)**
+#  **[IIS Config for OpenSpeedTest-Server](https://openspeedtest.com/selfhosted-speedtest?ref=Github)**
 
 - ###  **[OpenSpeedTest as a Service on Windows Server 2022](https://www.youtube.com/watch?v=N4WQnAfJUHY)**
 - ###  **[Run OpenSpeedTest using IIS (Internet Information Services)](https://www.youtube.com/watch?v=CaS5VFB57Ng)**
